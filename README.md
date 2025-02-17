@@ -4,7 +4,7 @@
 
 | Blockchain | Dataset       | Source | Time Range | #Node   | #Edge    | #Label | #P2T   | #F  | #C | Citation |
 |------------|---------------|--------|------------|---------|----------|--------|--------|-----|-----|----------|
-| **BTC**    | [Elliptic](https://www.kaggle.com/datasets/ellipticco/elliptic-data-set) | [19_KDD_AMLBit(https://arxiv.org/abs/1908.02591)] | Unknown | 203K | 234K | 46K | 2.23% | 166 | 3 | [2][3][4][5], [6][7][8] |
+| **BTC**    | [Elliptic](https://www.kaggle.com/datasets/ellipticco/elliptic-data-set) | [19_KDD_AMLBit](https://arxiv.org/abs/1908.02591) | Unknown | 203K | 234K | 46K | 2.23% | 166 | 3 | [2][3][4][5], [6][7][8] |
 |            | [Elliptic++](https://drive.google.com/drive/folders/1MRPXz79Lu_JGLlJ21MDfML44dKN9R08l) | [9] | Jul15-Sep17 | 822K | 2.8M | 265K | 1.73% | 56 | 3 | -- |
 |            | [Elliptic2](https://www.kaggle.com/datasets/ellipticco/elliptic2-data-set) | [10] | Unknown | 121K | 196M | 121K | 2.27% | 43 | 3 | [11] |
 |            | [RD Bitcoin](https://github.com/smoothwang/RD_Bitcoin_Dataset/blob/main/RD_dataset_location.txt) | [12] | Unknown | 203K | 234K | 46K | 2.32% | 186 | 3 | -- |
