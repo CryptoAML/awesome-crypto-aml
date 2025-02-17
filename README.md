@@ -11,7 +11,7 @@
 |            | [BlockSec](https://pan.baidu.com/s/1wNktynHDNSou6dKTPzwu4A?pwd=ikya) | [24_Ent](https://www.mdpi.com/1099-4300/26/3/211) | Apr23 | 100K | 16M | 100K | 1.44% | 3 | 2 |
 | **ETH**    | [EthereumHeist](https://www.dropbox.com/scl/fo/ayk5juz7wn5q82o1dlet3/AC8FHG2bjOafiGmGu9W22kc?rlkey=zc1rhb1xtzvtdqwe3mee1zick&e=1) | [23_TIFS](https://ieeexplore.ieee.org/abstract/document/10371347) | May15-May22 | 634K | 1.9M | 622K | 7.52% | — | 4 |
 |            | [TornadoML](https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/GKAQYN) | [23_FTIC](https://ieeexplore.ieee.org/abstract/document/10455883) | May22-May23 | 4.6K | 1.3M | 4.6K | 46.55% | 47 | 2 | 
-- *Time Range*: time span covered by the dataset
+- Time Range: time span covered by the dataset
 - #P2T: proportion of positive nodes relative to the total number of nodes
 - #F: types of node features
 - #C: types of labels
